@@ -1,0 +1,35 @@
+{
+ "name": "Singularity: Paradox Tactics",
+ "short_name": "SG Tactics",
+ "description": "Turn-based singularity tactics. Spend action points to move, transmute the board, bend gravity and shove echoes into the void. Four endings.",
+ "id": "./",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "any",
+ "background_color": "#0b1020",
+ "theme_color": "#0b1020",
+ "categories": [
+  "games"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

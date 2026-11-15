@@ -1,0 +1,35 @@
+{
+ "name": "Singularity: Collapse",
+ "short_name": "SG Collapse",
+ "description": "Survive ten minutes of collapsing reality. Auto-attacks, level-up powers, paradox ultimates, and four endings that rewrite your next run.",
+ "id": "./",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "any",
+ "background_color": "#05010d",
+ "theme_color": "#05010d",
+ "categories": [
+  "games"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
